@@ -1,0 +1,9 @@
+Database=Creat a Database it's name is "product".
+
+Table= Creat a Table "electronic" in product.
+
+InsertProduct= Insert the products in Table electronic.
+
+Bill= It's show the Bill on Terminal.
+
+Main= Run above all codes.
